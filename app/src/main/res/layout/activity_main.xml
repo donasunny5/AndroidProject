@@ -35,5 +35,11 @@
         android:layout_gravity="center_horizontal"/>
 
 
-
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:id="@+id/activityChangeTextBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/open_activity_and_change_text"/>
 </LinearLayout>
